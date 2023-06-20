@@ -4,11 +4,11 @@ This is React project that includes the React Ui.
 
 **Usage**
 
-**Install Dependencies**
+1. **Install Dependencies**
 
 _npm install_
 
-**Running the React Dev Server**
+2. **Running the React Dev Server**
 
 (http://localhost:3000)
 
