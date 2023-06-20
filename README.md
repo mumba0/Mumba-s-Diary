@@ -1,4 +1,4 @@
-# Stephen Mumba react-App for Tasks
+# Stephen Mumba Diary React-App
 
 
 ## Available Scripts
